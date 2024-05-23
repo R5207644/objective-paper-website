@@ -1,0 +1,332 @@
+{
+  "questions" : [
+    {
+    "question": "Which of the following is a primary component of computer graphics?",
+    "options": ["a) CPU", "b) GPU", "c) RAM", "d) HDD"],
+    "answer":"b) GPU"
+  },
+
+  {
+  "question": "What does the term 'raster graphics' refer to?",
+      "options": ["a) Vector-based images", "b) Pixel-based images", "c) 3D models", "d) Line drawings"],
+      "answer": "b) Pixel-based images"
+  }
+
+  ,
+  {
+  "question": "Which property of video display devices determines how long an image remains visible after being displayed?",
+  "options": ["a) Persistence", "b) Resolution", "c) Aspect ratio", "d) Refresh rate"],
+  "answer": "a) Persistence"
+  }
+
+  ,
+  {
+  "question": "What is the aspect ratio?",
+  "options": ["a) The ratio of vertical pixels to horizontal pixels", "b) The ratio of screen width to screen height", "c) The ratio of screen height to screen width", "d) The ratio of screen diagonal to screen width"],
+  "answer": "b) The ratio of screen width to screen height"
+  }
+
+  ,
+  {
+  "question": "What is the primary purpose of anti-aliasing in computer graphics?",
+  "options": ["a) To reduce image resolution", "b) To improve image quality", "c) To increase rendering speed", "d) To add motion blur"],
+  "answer": "b) To improve image quality"
+  }
+
+  ,
+  {
+  "question": "Which type of graphics is resolution-dependent?",
+  "options": ["a) Raster graphics", "b) Vector graphics", "c) Both", "d) Neither"],
+  "answer": "a) Raster graphics"
+  }
+
+  ,
+  {
+  "question": "What is the main advantage of vector graphics over raster graphics?",
+  "options": ["a) Scalability", "b) Realistic images", "c) Smaller file size", "d) Better color accuracy"],
+  "answer": "a) Scalability"
+  }
+
+  ,
+  {
+  "question": "Which component of a computer graphics system stores pixel data for display?",
+  "options": ["a) Frame buffer", "b) CPU", "c) GPU", "d) RAM"],
+  "answer": "a) Frame buffer"
+  }
+
+  ,
+  {
+  "question": "What is the purpose of a clipping algorithm in computer graphics?",
+  "options": ["a) To create smooth curves", "b) To remove hidden surfaces", "c) To apply textures", "d) To adjust brightness and contrast"],
+  "answer": "b) To remove hidden surfaces"
+  }
+
+  ,
+  {
+  "question": "Which transformation is used to change the size of an object in computer graphics?",
+  "options": ["a) Translation", "b) Rotation", "c) Scaling", "d) Shearing"],
+  "answer": "c) Scaling"
+  }
+
+  ,
+  {
+  "question": "What does the term 'ray tracing' refer to?",
+  "options": ["a) Creating 3D models", "b) Rendering 2D images", "c) Simulating light interactions", "d) Applying texture maps"],
+  "answer": "c) Simulating light interactions"
+  }
+
+  ,
+  {
+  "question": "Which type of projection is commonly used in 3D computer graphics?",
+  "options": ["a) Orthographic projection", "b) Perspective projection", "c) Isometric projection", "d) Oblique projection"],
+  "answer": "b) Perspective projection"
+  }
+
+  ,
+  {
+  "question": "What is the purpose of the Z-buffer in 3D rendering?",
+  "options": ["a) To store texture coordinates", "b) To handle transparency", "c) To perform hidden surface removal", "d) To apply lighting effects"],
+  "answer": "c) To perform hidden surface removal"
+  }
+
+  ,
+  {
+  "question": "Which algorithm is commonly used for filling polygons in computer graphics?",
+  "options": ["a) Bresenham's line algorithm", "b) Cohen-Sutherland algorithm", "c) Scanline algorithm", "d) DDA algorithm"],
+  "answer": "c) Scanline algorithm"
+  }
+
+  ,
+  {
+  "question": "What is the purpose of a texture map in computer graphics?",
+  "options": ["a) To add color to 3D models", "b) To simulate surface details", "c) To create shadows", "d) To apply motion blur"],
+  "answer": "b) To simulate surface details"
+  },
+
+  
+  {
+    "question": "What is software engineering and why is it important?",
+    "options": ["a) The process of designing and building software systems", "b) The study of computer hardware", "c) The management of software projects", "d) The development of video games"],
+    "answer": "a) The process of designing and building software systems"
+    },
+
+  {
+      "question": "What are the phases of the software development life cycle (SDLC)?",
+      "options": ["a) Analysis, design, implementation, testing, deployment, maintenance", "b) Planning, execution, monitoring, control", "c) Requirements gathering, coding, testing, documentation", "d) Design, development, deployment, support"],
+      "answer": "a) Analysis, design, implementation, testing, deployment, maintenance"
+  },
+  {
+      "question": "What is the purpose of software testing?",
+      "options": ["a) To find and fix bugs in the code", "b) To create user documentation", "c) To optimize database queries", "d) To design user interfaces"],
+      "answer": "a) To find and fix bugs in the code"
+  },
+  {
+      "question": "What is version control?",
+      "options": ["a) A technique for managing software licenses", "b) A system for tracking changes to code over time", "c) A method for optimizing database performance", "d) A process for creating software requirements"],
+      "answer": "b) A system for tracking changes to code over time"
+  },
+  {
+      "question": "What is the purpose of software documentation?",
+      "options": ["a) To create user manuals", "b) To explain how the code works", "c) To generate test cases", "d) To design user interfaces"],
+      "answer": "b) To explain how the code works"
+  },
+  {
+      "question": "What is a software requirement?",
+      "options": ["a) A description of how the software will be tested", "b) A statement of what the software must do", "c) A list of software features", "d) A design specification"],
+      "answer": "b) A statement of what the software must do"
+  },
+  {
+      "question": "What is the waterfall model?",
+      "options": ["a) A model for managing software projects", "b) A technique for optimizing database queries", "c) A process for creating user interfaces", "d) A method for tracking code changes"],
+      "answer": "a) A model for managing software projects"
+  },
+  {
+      "question": "What is agile software development?",
+      "options": ["a) A method for creating user interfaces", "b) A process for optimizing database performance", "c) An iterative and flexible approach to software development", "d) A technique for managing software licenses"],
+      "answer": "c) An iterative and flexible approach to software development"
+  },
+  {
+      "question": "What is the purpose of a software design pattern?",
+      "options": ["a) To create user interfaces", "b) To optimize database queries", "c) To standardize solutions to common problems", "d) To generate test cases"],
+      "answer": "c) To standardize solutions to common problems"
+  },
+  {
+      "question": "What is refactoring?",
+      "options": ["a) A technique for managing software licenses", "b) A process for creating user interfaces", "c) A method for tracking code changes", "d) A way to improve code quality without changing its behavior"],
+      "answer": "d) A way to improve code quality without changing its behavior"
+  },
+  {
+      "question": "What is the role of a software architect?",
+      "options": ["a) To write code", "b) To manage software projects", "c) To design the overall structure of a software system", "d) To create user documentation"],
+      "answer": "c) To design the overall structure of a software system"
+  },
+  {
+      "question": "What is a software bug?",
+      "options": ["a) A feature requested by the user", "b) A defect or error in the code", "c) A design flaw", "d) A performance issue"],
+      "answer": "b) A defect or error in the code"
+  },
+  {
+      "question": "What is continuous integration?",
+      "options": ["a) A technique for managing software licenses", "b) A process for optimizing database performance", "c) A method for tracking code changes", "d) A practice of regularly merging code changes into a shared repository"],
+      "answer": "d) A practice of regularly merging code changes into a shared repository"
+  },
+
+    
+    {
+      "question": "What is an operating system?",
+      "options": ["a) The software that manages computer hardware resources", "b) A type of application software", "c) A programming language", "d) A hardware component"],
+      "answer": "a) The software that manages computer hardware resources"
+  },
+  {
+      "question": "What is the purpose of an operating system?",
+      "options": ["a) To provide a user-friendly interface", "b) To manage computer hardware and software resources", "c) To create graphics for games", "d) To run applications"],
+      "answer": "b) To manage computer hardware and software resources"
+  },
+  {
+      "question": "Which component of an operating system manages memory allocation?",
+      "options": ["a) Kernel", "b) Shell", "c) File system", "d) Scheduler"],
+      "answer": "a) Kernel"
+  },
+  {
+      "question": "What is a process in the context of an operating system?",
+      "options": ["a) A running application", "b) A file on disk", "c) A hardware component", "d) A user account"],
+      "answer": "a) A running application"
+  },
+  {
+      "question": "What is virtual memory?",
+      "options": ["a) A type of RAM", "b) A storage device", "c) A memory management technique", "d) A network protocol"],
+      "answer": "c) A memory management technique"
+  },
+  {
+      "question": "What is a file system?",
+      "options": ["a) A type of database", "b) A way to organize files on disk", "c) A hardware component", "d) A programming language"],
+      "answer": "b) A way to organize files on disk"
+  },
+  {
+      "question": "What is a shell in the context of an operating system?",
+      "options": ["a) A protective layer for hardware components", "b) A user interface for interacting with the OS", "c) A type of file system", "d) A hardware component"],
+      "answer": "b) A user interface for interacting with the OS"
+  },
+  {
+      "question": "What is a device driver?",
+      "options": ["a) A type of application software", "b) A hardware component", "c) A program that allows the OS to communicate with hardware devices", "d) A file on disk"],
+      "answer": "c) A program that allows the OS to communicate with hardware devices"
+  },
+  {
+      "question": "What is the role of the scheduler in an operating system?",
+      "options": ["a) To manage memory allocation", "b) To create graphics for games", "c) To allocate CPU time to processes", "d) To manage file systems"],
+      "answer": "c) To allocate CPU time to processes"
+  },
+  {
+      "question": "What is a system call?",
+      "options": ["a) A request made by an application to the OS kernel", "b) A type of file system", "c) A hardware component", "d) A programming language"],
+      "answer": "a) A request made by an application to the OS kernel"
+  },
+  {
+      "question": "What is the purpose of a bootloader?",
+    "options": ["a) To load applications into memory", "b) To manage file systems", "c) To start the operating system", "d) To create graphics for games"],
+    "answer": "c) To start the operating system"
+  },
+  {
+      "question": "What is a deadlock?",
+      "options": ["a) A type of file system corruption", "b) A situation where two or more processes are unable to proceed", "c) A hardware failure", "d) A memory leak"],
+      "answer": "b) A situation where two or more processes are unable to proceed"
+  },
+  {
+      "question": "What is the purpose of a command-line interface (CLI)?",
+      "options": ["a) To create graphics for games", "b) To provide a user-friendly interface", "c) To allow users to interact with the OS using text commands", "d) To manage file systems"],
+      "answer": "c) To allow users to interact with the OS using text commands"
+  },
+  {
+      "question": "What is the role of the registry in Windows operating systems?",
+      "options": ["a) To store user data", "b) To manage hardware devices", "c) To store configuration settings", "d) To create graphics for games"],
+      "answer": "c) To store configuration settings"
+  },
+
+
+    {
+      "question": "What is optimization techniques?",
+      "options": ["a) The process of improving the performance of a computer program", "b) The study of computer hardware", "c) The management of software projects", "d) The development of video games"],
+      "answer": "a) The process of improving the performance of a computer program"
+  },
+  {
+      "question": "What are the common optimization techniques used in computer science?",
+      "options": ["a) Dynamic programming", "b) Greedy algorithms", "c) Divide and conquer", "d) All of the above"],
+      "answer": "d) All of the above"
+  },
+  {
+      "question": "What is the purpose of optimization?",
+      "options": ["a) To create efficient algorithms", "b) To minimize resource usage", "c) To improve program speed", "d) To reduce memory consumption"],
+      "answer": "b) To minimize resource usage"
+  },
+  {
+      "question": "What is the time complexity of an algorithm?",
+      "options": ["a) The amount of memory used by the algorithm", "b) The number of instructions executed by the algorithm", "c) The number of input elements processed by the algorithm", "d) The maximum amount of time the algorithm takes to run"],
+      "answer": "b) The number of instructions executed by the algorithm"
+    },
+
+
+    
+      {
+        "question": "What is a graph in graph theory?",
+        "options": ["a) A visual representation of data", "b) A set of nodes connected by edges", "c) A mathematical equation", "d) A type of chart"],
+        "answer": "b) A set of nodes connected by edges"
+    },
+    {
+        "question": "What is a vertex (or node) in a graph?",
+        "options": ["a) A line connecting two points", "b) A point in the graph", "c) A type of algorithm", "d) A type of data structure"],
+        "answer": "b) A point in the graph"
+    },
+    {
+        "question": "What is an edge in a graph?",
+        "options": ["a) A line connecting two points", "b) A point in the graph", "c) A type of algorithm", "d) A type of data structure"],
+        "answer": "a) A line connecting two points"
+    },
+    {
+        "question": "What is the degree of a vertex in a graph?",
+        "options": ["a) The number of edges connected to the vertex", "b) The number of nodes in the graph", "c) The length of the longest path from the vertex", "d) The number of connected components"],
+        "answer": "a) The number of edges connected to the vertex"
+    },
+    {
+        "question": "What is a path in a graph?",
+        "options": ["a) A sequence of nodes connected by edges", "b) A type of algorithm", "c) A type of data structure", "d) A point in the graph"],
+        "answer": "a) A sequence of nodes connected by edges"
+    },
+    {
+        "question": "What is a cycle in a graph?",
+        "options": ["a) A sequence of nodes connected by edges", "b) A type of algorithm", "c) A type of data structure", "d) A closed path in the graph"],
+        "answer": "d) A closed path in the graph"
+    },
+    {
+        "question": "What is a connected graph?",
+        "options": ["a) A graph with no edges", "b) A graph with only one vertex", "c) A graph where there is a path between any pair of vertices", "d) A graph with no cycles"],
+        "answer": "c) A graph where there is a path between any pair of vertices"
+    },
+    {
+        "question": "What is a tree in graph theory?",
+        "options": ["a) A graph with no edges", "b) A graph with only one vertex", "c) A connected acyclic graph", "d) A graph with no cycles"],
+        "answer": "c) A connected acyclic graph"
+    },
+    {
+        "question": "What is a bipartite graph?",
+        "options": ["a) A graph with no edges", "b) A graph with only one vertex", "c) A graph with two disjoint sets of vertices", "d) A graph with no cycles"],
+        "answer": "c) A graph with two disjoint sets of vertices"
+    },
+    {
+        "question": "What is an Eulerian path?",
+        "options": ["a) A path that visits every vertex exactly once", "b) A path that visits every edge exactly once", "c) A path that starts and ends at the same vertex", "d) A path that visits every vertex and edge exactly once"],
+        "answer": "b) A path that visits every edge exactly once"
+    },
+    {
+        "question": "What is a Hamiltonian cycle?",
+        "options": ["a) A cycle that visits every vertex exactly once", "b) A cycle that visits every edge exactly once", "c) A cycle that starts and ends at the same vertex", "d) A cycle that visits every vertex and edge exactly once"],
+        "answer": "a) A cycle that visits every vertex exactly once"
+    },
+    {
+        "question": "What is a planar graph?",
+        "options": ["a) A graph with no edges", "b) A graph that can be drawn on a plane without edges crossing", "c) A graph with only one vertex", "d) A graph with no cycles"],
+        "answer": "b) A graph that can be drawn on a plane without edges crossing"
+    }
+  
+  ]
+}

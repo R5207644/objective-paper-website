@@ -1,0 +1,445 @@
+{
+  "questions" : [
+      {
+        "question": "What is the time complexity of an algorithm?",
+        "options": [
+          "a) The amount of memory used by the algorithm",
+          "b) The number of instructions executed by the algorithm",
+          "c) The number of input elements processed by the algorithm",
+          "d) The maximum amount of time the algorithm takes to run"
+        ],
+        "answer": "b) The number of instructions executed by the algorithm"
+      },
+      {
+        "question": "What is the purpose of greedy algorithms?",
+        "options": [
+          "a) To minimize the number of steps in an algorithm",
+          "b) To maximize the output of an algorithm",
+          "c) To find the optimal solution in a step-by-step manner",
+          "d) To reduce the time complexity of an algorithm"
+        ],
+        "answer": "b) To maximize the output of an algorithm"
+      },
+      {
+        "question": "Which data structure is commonly used for implementing a priority queue?",
+        "options": [
+          "a) Stack",
+          "b) Queue",
+          "c) Heap",
+          "d) Linked list"
+        ],
+        "answer": "c) Heap"
+      },
+
+        {
+          "question": "What is the time complexity of an algorithm?",
+          "options": [
+            "a) The amount of memory used by the algorithm",
+            "b) The number of instructions executed by the algorithm",
+            "c) The number of input elements processed by the algorithm",
+            "d) The maximum amount of time the algorithm takes to run"
+          ],
+          "answer": "b) The number of instructions executed by the algorithm"
+        },
+        {
+          "question": "What is the purpose of greedy algorithms?",
+          "options": [
+            "a) To minimize the number of steps in an algorithm",
+            "b) To maximize the output of an algorithm",
+            "c) To find the optimal solution in a step-by-step manner",
+            "d) To reduce the time complexity of an algorithm"
+          ],
+          "answer": "b) To maximize the output of an algorithm"
+        },
+        {
+          "question": "Which data structure is commonly used for implementing a priority queue?",
+          "options": [
+            "a) Stack",
+            "b) Queue",
+            "c) Heap",
+            "d) Linked list"
+          ],
+          "answer": "c) Heap"
+        },
+        {
+          "question": "What is Dijkstra's algorithm used for?",
+          "options": [
+            "a) Finding the shortest path in a weighted graph",
+            "b) Sorting elements in an array",
+            "c) Detecting cycles in an undirected graph",
+            "d) Constructing a minimum spanning tree"
+          ],
+          "answer": "a) Finding the shortest path in a weighted graph"
+        },
+        {
+          "question": "What is backtracking?",
+          "options": [
+            "a) A technique to optimize recursive algorithms",
+            "b) A method to backtrack through memory locations",
+            "c) An approach to solving problems by trying out different possibilities and undoing choices if they lead to a dead end",
+            "d) A way to minimize the number of function calls"
+          ],
+          "answer": "c) An approach to solving problems by trying out different possibilities and undoing choices if they lead to a dead end"
+        },
+
+        
+  {
+    "question": "What is the time complexity of an algorithm?",
+    "options": [
+      "a) The amount of memory used by the algorithm",
+      "b) The number of instructions executed by the algorithm",
+      "c) The number of input elements processed by the algorithm",
+      "d) The maximum amount of time the algorithm takes to run"
+    ],
+    "answer": "b) The number of instructions executed by the algorithm"
+  },
+  {
+    "question": "What is the purpose of greedy algorithms?",
+    "options": [
+      "a) To minimize the number of steps in an algorithm",
+      "b) To maximize the output of an algorithm",
+      "c) To find the optimal solution in a step-by-step manner",
+      "d) To reduce the time complexity of an algorithm"
+    ],
+    "answer": "b) To maximize the output of an algorithm"
+  },
+  {
+    "question": "Which data structure is commonly used for implementing a priority queue?",
+    "options": [
+      "a) Stack",
+      "b) Queue",
+      "c) Heap",
+      "d) Linked list"
+    ],
+    "answer": "c) Heap"
+  },
+  {
+    "question": "What is Dijkstra's algorithm used for?",
+    "options": [
+      "a) Finding the shortest path in a weighted graph",
+      "b) Sorting elements in an array",
+      "c) Detecting cycles in an undirected graph",
+      "d) Constructing a minimum spanning tree"
+    ],
+    "answer": "a) Finding the shortest path in a weighted graph"
+  },
+  {
+    "question": "What is backtracking?",
+    "options": [
+      "a) A technique to optimize recursive algorithms",
+      "b) A method to backtrack through memory locations",
+      "c) An approach to solving problems by trying out different possibilities and undoing choices if they lead to a dead end",
+      "d) A way to minimize the number of function calls"
+    ],
+    "answer": "c) An approach to solving problems by trying out different possibilities and undoing choices if they lead to a dead end"
+  },
+
+  
+  {
+    "question": "What is the time complexity of an algorithm?",
+    "options": [
+      "a) The amount of memory used by the algorithm",
+      "b) The number of instructions executed by the algorithm",
+      "c) The number of input elements processed by the algorithm",
+      "d) The maximum amount of time the algorithm takes to run"
+    ],
+    "answer": "b) The number of instructions executed by the algorithm"
+  },
+  {
+    "question": "What is the purpose of greedy algorithms?",
+    "options": [
+      "a) To minimize the number of steps in an algorithm",
+      "b) To maximize the output of an algorithm",
+      "c) To find the optimal solution in a step-by-step manner",
+      "d) To reduce the time complexity of an algorithm"
+    ],
+    "answer": "b) To maximize the output of an algorithm"
+  },
+  {
+    "question": "Which data structure is commonly used for implementing a priority queue?",
+    "options": [
+      "a) Stack",
+      "b) Queue",
+      "c) Heap",
+      "d) Linked list"
+    ],
+    "answer": "c) Heap"
+  },
+  {
+    "question": "What is Dijkstra's algorithm used for?",
+    "options": [
+      "a) Finding the shortest path in a weighted graph",
+      "b) Sorting elements in an array",
+      "c) Detecting cycles in an undirected graph",
+      "d) Constructing a minimum spanning tree"
+    ],
+    "answer": "a) Finding the shortest path in a weighted graph"
+  },
+  {
+    "question": "What is backtracking?",
+    "options": [
+      "a) A technique to optimize recursive algorithms",
+      "b) A method to backtrack through memory locations",
+      "c) An approach to solving problems by trying out different possibilities and undoing choices if they lead to a dead end",
+      "d) A way to minimize the number of function calls"
+    ],
+    "answer": "c) An approach to solving problems by trying out different possibilities and undoing choices if they lead to a dead end"
+  },
+
+  
+  {
+    "question": "What is the time complexity of an algorithm?",
+    "options": [
+      "a) The amount of memory used by the algorithm",
+      "b) The number of instructions executed by the algorithm",
+      "c) The number of input elements processed by the algorithm",
+      "d) The maximum amount of time the algorithm takes to run"
+    ],
+    "answer": "b) The number of instructions executed by the algorithm"
+  },
+  {
+    "question": "What is the purpose of greedy algorithms?",
+    "options": [
+      "a) To minimize the number of steps in an algorithm",
+      "b) To maximize the output of an algorithm",
+      "c) To find the optimal solution in a step-by-step manner",
+      "d) To reduce the time complexity of an algorithm"
+    ],
+    "answer": "b) To maximize the output of an algorithm"
+  },
+  {
+    "question": "Which data structure is commonly used for implementing a priority queue?",
+    "options": [
+      "a) Stack",
+      "b) Queue",
+      "c) Heap",
+      "d) Linked list"
+    ],
+    "answer": "c) Heap"
+  },
+  {
+    "question": "What is Dijkstra's algorithm used for?",
+    "options": [
+      "a) Finding the shortest path in a weighted graph",
+      "b) Sorting elements in an array",
+      "c) Detecting cycles in an undirected graph",
+      "d) Constructing a minimum spanning tree"
+    ],
+    "answer": "a) Finding the shortest path in a weighted graph"
+  },
+  {
+    "question": "What is backtracking?",
+    "options": [
+      "a) A technique to optimize recursive algorithms",
+      "b) A method to backtrack through memory locations",
+      "c) An approach to solving problems by trying out different possibilities and undoing choices if they lead to a dead end",
+      "d) A way to minimize the number of function calls"
+    ],
+    "answer": "c) An approach to solving problems by trying out different possibilities and undoing choices if they lead to a dead end"
+  },
+
+  
+  {
+    "question": "What is the time complexity of an algorithm?",
+    "options": [
+      "a) The amount of memory used by the algorithm",
+      "b) The number of instructions executed by the algorithm",
+      "c) The number of input elements processed by the algorithm",
+      "d) The maximum amount of time the algorithm takes to run"
+    ],
+    "answer": "b) The number of instructions executed by the algorithm"
+  },
+  {
+    "question": "What is the purpose of greedy algorithms?",
+    "options": [
+      "a) To minimize the number of steps in an algorithm",
+      "b) To maximize the output of an algorithm",
+      "c) To find the optimal solution in a step-by-step manner",
+      "d) To reduce the time complexity of an algorithm"
+    ],
+    "answer": "b) To maximize the output of an algorithm"
+  },
+  {
+    "question": "Which data structure is commonly used for implementing a priority queue?",
+    "options": [
+      "a) Stack",
+      "b) Queue",
+      "c) Heap",
+      "d) Linked list"
+    ],
+    "answer": "c) Heap"
+  },
+  {
+    "question": "What is Dijkstra's algorithm used for?",
+    "options": [
+      "a) Finding the shortest path in a weighted graph",
+      "b) Sorting elements in an array",
+      "c) Detecting cycles in an undirected graph",
+      "d) Constructing a minimum spanning tree"
+    ],
+    "answer": "a) Finding the shortest path in a weighted graph"
+  },
+  {
+    "question": "What is backtracking?",
+    "options": [
+      "a) A technique to optimize recursive algorithms",
+      "b) A method to backtrack through memory locations",
+      "c) An approach to solving problems by trying out different possibilities and undoing choices if they lead to a dead end",
+      "d) A way to minimize the number of function calls"
+    ],
+    "answer": "c) An approach to solving problems by trying out different possibilities and undoing choices if they lead to a dead end"
+  },
+  {
+    "question": "What is memoization?",
+    "options": [
+      "a) A technique to store intermediate results to avoid redundant computations",
+      "b) A method to optimize memory usage in algorithms",
+      "c) An approach to solving problems by using dynamic programming",
+      "d) A way to minimize the number of iterations in loops"
+    ],
+    "answer": "a) A technique to store intermediate results to avoid redundant computations"
+  },
+  {
+    "question": "What is the Knapsack problem?",
+    "options": [
+      "a) A problem related to sorting elements in an array",
+      "b) A problem of finding the longest common subsequence",
+      "c) A problem of selecting items to maximize the total value while staying within a given weight limit",
+      "d) A problem of finding the shortest path in a graph"
+    ],
+    "answer": "c) A problem of selecting items to maximize the total value while staying within a given weight limit"
+  },
+  {
+    "question": "What is the difference between BFS and DFS?",
+    "options": [
+      "a) BFS uses a stack, while DFS uses a queue",
+      "b) BFS explores nodes level by level, while DFS explores as deep as possible",
+      "c) BFS is faster than DFS",
+      "d) DFS is guaranteed to find the shortest path in a graph"
+    ],
+    "answer": "b) BFS explores nodes level by level, while DFS explores as deep as possible"
+  },
+  {
+    "question": "What is the traveling salesman problem?",
+    "options": [
+      "a) A problem of finding the shortest path in a weighted graph",
+      "b) A problem of finding the longest common subsequence",
+      "c) A problem of finding the optimal route that visits a set of cities and returns to the starting city",
+      "d) A problem of sorting elements in an array"
+    ],
+    "answer": "c) A problem of finding the optimal route that visits a set of cities and returns to the starting city"
+  },
+  {
+    "question": "What is the Big O notation?",
+    "options": [
+      "a) A way to represent the number of input elements processed by an algorithm",
+      "b) A method to analyze the efficiency of an algorithm in terms of time and space complexity",
+      "c) A technique to optimize recursive algorithms",
+      "d) A way to minimize the number of iterations in loops"
+    ],
+    "answer": "b) A method to analyze the efficiency of an algorithm in terms of time and space complexity"
+  },
+  {
+    "question": "What is the time complexity of an algorithm?",
+    "options": [
+      "a) The amount of memory used by the algorithm",
+      "b) The number of instructions executed by the algorithm",
+      "c) The number of input elements processed by the algorithm",
+      "d) The maximum amount of time the algorithm takes to run"
+    ],
+    "answer": "b) The number of instructions executed by the algorithm"
+  },
+  {
+    "question": "What is the purpose of greedy algorithms?",
+    "options": [
+      "a) To minimize the number of steps in an algorithm",
+      "b) To maximize the output of an algorithm",
+      "c) To find the optimal solution in a step-by-step manner",
+      "d) To reduce the time complexity of an algorithm"
+    ],
+    "answer": "b) To maximize the output of an algorithm"
+  },
+  {
+    "question": "Which data structure is commonly used for implementing a priority queue?",
+    "options": [
+      "a) Stack",
+      "b) Queue",
+      "c) Heap",
+      "d) Linked list"
+    ],
+    "answer": "c) Heap"
+  },
+  {
+    "question": "What is Dijkstra's algorithm used for?",
+    "options": [
+      "a) Finding the shortest path in a weighted graph",
+      "b) Sorting elements in an array",
+      "c) Detecting cycles in an undirected graph",
+      "d) Constructing a minimum spanning tree"
+    ],
+    "answer": "a) Finding the shortest path in a weighted graph"
+  },
+  {
+    "question": "What is backtracking?",
+    "options": [
+      "a) A technique to optimize recursive algorithms",
+      "b) A method to backtrack through memory locations",
+      "c) An approach to solving problems by trying out different possibilities and undoing choices if they lead to a dead end",
+      "d) A way to minimize the number of function calls"
+    ],
+    "answer": "c) An approach to solving problems by trying out different possibilities and undoing choices if they lead to a dead end"
+  },
+  {
+    "question": "What is memoization?",
+    "options": [
+      "a) A technique to store intermediate results to avoid redundant computations",
+      "b) A method to optimize memory usage in algorithms",
+      "c) An approach to solving problems by using dynamic programming",
+      "d) A way to minimize the number of iterations in loops"
+    ],
+    "answer": "a) A technique to store intermediate results to avoid redundant computations"
+  },
+  {
+    "question": "What is the Knapsack problem?",
+    "options": [
+      "a) A problem of finding the shortest path in a weighted graph",
+      "b) A problem of finding the longest common subsequence",
+      "c) A problem of selecting items to maximize the total value while staying within a given weight limit",
+      "d) A problem of finding the shortest path in a directed graph"
+    ],
+    "answer": "c) A problem of selecting items to maximize the total value while staying within a given weight limit"
+  },
+  {
+    "question": "What is the difference between BFS and DFS?",
+    "options": [
+      "a) BFS uses a stack, while DFS uses a queue",
+      "b) BFS explores nodes level by level, while DFS explores as deep as possible",
+      "c) BFS is faster than DFS",
+      "d) DFS is guaranteed to find the shortest path in a graph"
+    ],
+    "answer": "b) BFS explores nodes level by level, while DFS explores as deep as possible"
+  },
+  {
+    "question": "What is the traveling salesman problem?",
+    "options": [
+      "a) A problem of finding the shortest path in a weighted graph",
+      "b) A problem of finding the longest common subsequence",
+      "c) A problem of finding the optimal route that visits a set of cities and returns to the starting city",
+      "d) A problem of sorting elements in an array"
+    ],
+    "answer": "c) A problem of finding the optimal route that visits a set of cities and returns to the starting city"
+  },
+  {
+    "question": "What is the Big O notation?",
+    "options": [
+      "a) A way to represent the number of input elements processed by an algorithm",
+      "b) A method to analyze the efficiency of an algorithm in terms of time and space complexity",
+      "c) A technique to optimize recursive algorithms",
+      "d) A way to minimize the number of iterations in loops"
+    ],
+    "answer": "b) A method to analyze the efficiency of an algorithm in terms of time and space complexity"
+}
+
+
+]
+}
